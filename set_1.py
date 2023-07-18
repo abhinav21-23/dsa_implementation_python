@@ -1,0 +1,9 @@
+s1=set()
+s2=set("hello")
+s3=set([1,2,3,4])
+s4={1,2,3,4}
+s1.add(1)
+print(s1)
+print(s2)
+print(s3)
+print(s4)
